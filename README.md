@@ -1,4 +1,38 @@
 # 🚀 Kanban Board Frontend
+# searching bar
+<img width="1818" height="1008" alt="image" src="https://github.com/user-attachments/assets/0dc0a173-9208-405c-b90c-cd7388704288" />
+
+# dashboard
+<img width="1818" height="1008" alt="image" src="https://github.com/user-attachments/assets/fd5188ca-40fc-4d27-bc7e-1268c7d016c6" />
+
+# move card
+<img width="1818" height="1008" alt="image" src="https://github.com/user-attachments/assets/d929c49c-d894-4cac-b153-44dbc1f8c8b1" />
+
+# create card 
+<img width="1228" height="644" alt="image" src="https://github.com/user-attachments/assets/89deab00-9e68-42fe-9516-2ca4cafee72f" />
+
+
+# kanban board travelling 
+<img width="1803" height="677" alt="image" src="https://github.com/user-attachments/assets/2cbb9dfd-b44c-4f03-8df5-a0544e120ba4" />
+
+# activity log 
+<img width="1830" height="229" alt="image" src="https://github.com/user-attachments/assets/9661f885-2f09-40af-aa7b-24143748c9c0" />
+
+
+# delete the card
+<img width="1818" height="1008" alt="image" src="https://github.com/user-attachments/assets/26b18f14-104f-4b37-a2f0-9d2d25e36bf8" />
+
+# add the card
+<img width="1412" height="705" alt="image" src="https://github.com/user-attachments/assets/d14b8711-b01c-482b-9eee-a106308e682f" />
+
+
+# edit the card 
+
+<img width="1651" height="632" alt="image" src="https://github.com/user-attachments/assets/fbb5d113-1bea-442f-9a81-10aef517cbe7" />
+
+
+
+# 🚀 Kanban Board Frontend
 
 A modern and responsive Kanban Board frontend application built with **React**, **Vite**, and **Tailwind CSS** featuring drag-and-drop task management and seamless integration with the Rails backend API.
 
@@ -149,16 +183,6 @@ ashwin-borkar GitHub
 
 📄 License
 
-
-
-frontent ui sending screen short 
-search funcationality 
-
-<img width="1781" height="649" alt="image" src="https://github.com/user-attachments/assets/02e2889a-1ee1-413f-8b12-8f445f4e1fac" />
-
-
-
-<img width="1824" height="173" alt="image" src="https://github.com/user-attachments/assets/c23aa55d-0882-430c-8159-56a208a8e1bd" />
 
 <img width="1818" height="1008" alt="image" src="https://github.com/user-attachments/assets/7b97c786-cfae-4c91-bca9-d48062bb4759" /><img width="1787" height="421" alt="image" src="https://github.com/user-attachments/assets/bb7e9cc5-ef88-496c-9548-8a5c20ade613" />
 
